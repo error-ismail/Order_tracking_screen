@@ -18,13 +18,13 @@ Every order screen has a status card with a 4-step progress bar, the delivery hi
 
 How to run
 
-You need Node.js 18 or newer.
+You need Node.js 18
 
 bash
 npm install
 npm run dev
 
-Open the link shown in the terminal (usually http://localhost:5173). To see the mobile layout, open DevTools and pick a device that is 360 to 430 px wide.
+Open the link shown in the terminal (http://localhost:5173).
 
 Files
 src/OrderTracking.jsx: the whole screen (mock data, status logic, components and styles).
